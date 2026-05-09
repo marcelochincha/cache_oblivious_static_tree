@@ -110,7 +110,7 @@ int main() {
         1'024'000'000LL,
 
 	};
-	std::size_t query_count = 500'000;
+	std::size_t query_count = 1'000'000;
 	int trials = 3;
 
 	std::ofstream csv("benchmark_results.csv");
