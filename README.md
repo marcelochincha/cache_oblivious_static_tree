@@ -1,5 +1,9 @@
 # cache_oblivious_static_tree
 
+## Integrantes
+- Marcelo Chincha
+- Adrian Cespedes
+
 ## Objetivo
 Comparar la localidad de cache entre un BST en layout plano (array tipo heap) y un BST en layout van Emde Boas (vEB) para consultas de busqueda. El benchmark mide tiempo por consulta y reporta el speedup de vEB sobre el BST plano.
 
